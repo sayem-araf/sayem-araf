@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sayem-araf
-- 👀 I’m interested in Data Science and programming 
+- 👀 I’m interested in Data Analytics, Data Science and programming 
 - 🌱 Power BI, SQL and Python
 - 💞️ I’m looking to collaborate on projects that involves data acquisition, preparation, analysis and visualization.
 - 📫 You can reach me via LinkedIn - https://www.linkedin.com/in/iamsayemaraf/ or email- sayem.araf@gmail.com
