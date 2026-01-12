@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sayem-araf
-- 👀 I’m interested in Data Analytics, Data Science and programming 
-- 🌱 Power BI, SQL and Python
-- 💞️ I’m looking to collaborate on projects that involves data acquisition, preparation, analysis and visualization.
-- 📫 You can reach me via LinkedIn - https://www.linkedin.com/in/iamsayemaraf/ or email- sayem.araf@gmail.com
+👋 Hi, This is Sayem!
+
+👀 Passionate about Software Development, AI & Automation, and Data
+
+💼 Hands-on experience with software projects and coding solutions
+
+📫 You can reach me via LinkedIn - https://www.linkedin.com/in/iamsayemaraf/ or email- sayem.araf@gmail.com
 
 <!---
 sayem-araf/sayem-araf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
