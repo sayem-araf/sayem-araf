@@ -4,7 +4,7 @@
 
 - Hands-on experience with BI, Data engineering projects and coding solutions
 
-- Feel free to reach me via LinkedIn - https://www.linkedin.com/in/iamsayemaraf/ or email- sayem.araf@gmail.com
+- Let's get connected via LinkedIn - https://www.linkedin.com/in/iamsayemaraf/ or email- sayem.araf@gmail.com
 
 <!---
 sayem-araf/sayem-araf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
