@@ -1,4 +1,4 @@
-👋 Hi, This is Sayem!
+👋 Hi, this is Sayem!
 
 - Passionate about Data, AI & Automation, and Software Development
 
