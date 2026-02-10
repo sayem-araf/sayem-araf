@@ -1,10 +1,10 @@
 👋 Hi, This is Sayem!
 
-👀 Passionate about Software Development, AI & Automation, and Data
+- Passionate about Data, AI & Automation, and Software Development
 
-💼 Hands-on experience with software projects and coding solutions
+- Hands-on experience with BI, Data engineering projects and coding solutions
 
-📫 You can reach me via LinkedIn - https://www.linkedin.com/in/iamsayemaraf/ or email- sayem.araf@gmail.com
+- Feel free to reach me via LinkedIn - https://www.linkedin.com/in/iamsayemaraf/ or email- sayem.araf@gmail.com
 
 <!---
 sayem-araf/sayem-araf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
