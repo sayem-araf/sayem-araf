@@ -1,10 +1,9 @@
 👋 Hi, this is Sayem!
 
-- Passionate about Data, AI & Automation, and Software Development
+- Data and BI Analyst with a background in operations and e-commerce.
+- I build dashboards, data pipelines, and tools that help businesses make decisions.
 
-- Hands-on experience with BI, Data engineering projects and coding solutions
-
-- Let's get connected via LinkedIn - https://www.linkedin.com/in/iamsayemaraf/ or email- sayem.araf@gmail.com
+Let's get connected via LinkedIn - https://www.linkedin.com/in/iamsayemaraf/ or email- sayem.araf@gmail.com
 
 <!---
 sayem-araf/sayem-araf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
